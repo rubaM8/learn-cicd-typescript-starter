@@ -1,5 +1,3 @@
-![test status](https://github.com/rubaM8/learn-cicd-typescript-starter/actions/workflows/.github/workflows/badge.svg)
-
 # learn-cicd-typescript-starter (Notely)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
